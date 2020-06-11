@@ -10,28 +10,29 @@ Pelo aplicativo Mobile você pode ver os pontos de coleta que estão perto de vo
 
 # 🌐 Web app
 
-Home Page:
+Pagina principal:
 <img src="./resources/imageHome.PNG">
-Register page:
+Página de cadastro:
 <img src="./resources/imagemJunta.jpg">
 
 # 📱 Mobile app
 
-Home Page:
+Pagina principal:
 <img src="./resources/homePage.jpeg">
-
+Pagina dos pontos:
 <img src="./resources/PointPage.jpeg">
+Detalhes do ponto:
 <img src="./resources/PointDetail.jpeg">
 
 
-# 🛠 Main Technologies
-The project was developed with these technologies:
+# 🛠 Principais tecnologias
+O projeto foi desenvolvido com as seguintes tecnologias:
 
 - [ReactJS](https://reactjs.org)
 - [React Native](https://reactnative.dev/)
 - [Express](https://expressjs.com/)
 
-# ⚙ Installing
+# ⚙ Instalando
 ```bash
     #Clone repo
     $ git clone https://github.com/JoaoptGaino/nlw-01/
@@ -47,10 +48,10 @@ The project was developed with these technologies:
 
 ```
 
-# ✍Authors
+# ✍Autor
 - **João Pedro Theodoro Gaino**:
     - [GitHub](https://github.com/JoaoptGaino)
     - [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-pedro-theodoro-gaino-b447a6178/)
 
-# Thanks
-Big thanks to all of the people from [RocketSeat](https://rocketseat.com.br), you guys are awesome and all of your free content are the greatest. The next bootcamp I'll be there.
+# Obrigado!
+Agradecimento a equipe da [RocketSeat](https://rocketseat.com.br)! vocês são demais, graças aos ensinamentos do starter(Curso gratuito disponível no site) eu consegui focar em uma stack e parar de querer aprender ***Todas*** as linguagens de uma só vez e realmente focar.
